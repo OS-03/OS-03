@@ -69,8 +69,10 @@ I build reliable web platforms, CI/CD pipelines, and embedded prototypes. I focu
 </div>
 
 ## GitHub Stats
-![OS-03 GitHub stats](https://github-readme-stats.vercel.app/api?username=OS-03&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OS-03&layout=compact&theme=tokyonight)
+<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=OS-03&show_icons=true&theme=tokyonight" alt="OS-03 GitHub stats" style="height:220px;max-width:620px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.08);"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OS-03&layout=compact&theme=tokyonight" alt="Top Langs" style="height:220px;max-width:380px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.08);"/>
+</div>
 
 ---
 
