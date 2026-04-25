@@ -20,7 +20,6 @@
     <img src="https://img.shields.io/badge/GitHub-OS--03-181717?style=flat-square&logo=github" alt="github" />
 </p>
 
----
 
 ## 🔎 About
 **I build reliable web platforms, CI/CD pipelines, and embedded prototypes.** I focus on **pragmatic engineering**, maintainability, and shipping features quickly.
