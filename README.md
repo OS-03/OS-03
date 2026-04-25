@@ -70,8 +70,8 @@
 
 ## 📊 Skill snapshot (quick visual)
 - Python:     ▇▇▇▇▇▇▇▇▇▉ 90%  
-- JavaScript: ▇▇▇▇▇▇▇▇▉ 85%  
-- DevOps:     ▇▇▇▇▇▇▇▉ 75%  
+- Java:       ▇▇▇▇▇▇▇▇▉ 85%  
+- JavaScript: ▇▇▇▇▇▇▇▉ 75%  
 - Cloud:      ▇▇▇▇▇▇▇▉ 75%  
 - Embedded:   ▇▇▇▇▇▇▉ 65%
 
