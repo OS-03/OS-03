@@ -26,14 +26,16 @@
 I build reliable web platforms, CI/CD pipelines, and embedded prototypes. I focus on pragmatic engineering, maintainability, and shipping features quickly.
 
 ## What I build
-- Production web apps (Django / Express / Node / TypeScript)
-- Interactive frontends (React, Tailwind)
+- Production web apps (Django / Express / Node / TypeScript / FastAPI)
+- Interactive frontends (Nextjs, Nestjs, Reactjs, Tailwind)
+- Cloud Computing (AWS, GCP, XEN, VMWARE, VIRTUALBOX)
 - DevOps & infra (Docker, Kubernetes, Terraform, GitHub Actions)
 - Embedded/IoT prototypes (Arduino, sensors)
 
 ## Featured projects
-- [EasyRTI](https://github.com/OS-03/EasyRTI) — TypeScript/Express RTI automation portal.
 - [DocSyncAI](https://github.com/OS-03/DocSyncAI) — LLM-powered doc-code synchronization.
+- [EasyRTI](https://github.com/OS-03/EasyRTI) — TypeScript/Express RTI automation portal with AI.
+- [BYTESOURCE](https://github.com/OS-03/BYTESOURCE) — A dynamic web-based E‑Learning platform for Computer Science students and learners.
 - [ClingGpt](https://github.com/OS-03/ClingGpt) — React + OpenAI chatbot with persistent history.
 - [InternSpark](https://github.com/OS-03/InternSpark) — MERN job portal with company & candidate panels.
 
