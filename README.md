@@ -67,6 +67,51 @@ I build reliable web platforms, CI/CD pipelines, and embedded prototypes. I focu
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" style="width:59px;height:59px;" />
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="width:59px;height:59px;" />
 </div>
+## Skills & Highlights
+
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>Git & GitHub</b> — <i><u>branching, PRs, code reviews</u></i>
+    &nbsp;•&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="gha" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>CI/CD</b> — <i>GitHub Actions, Jenkins</i>
+</p>
+
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>Containers</b> — <i>Docker</i>
+    &nbsp;•&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>Kubernetes</b> — <i>deployments & manifests</i>
+    &nbsp;•&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>Infrastructure as Code</b> — <i>Terraform</i>
+</p>
+
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>Frontend</b> — <i>React, Next.js, Tailwind</i>
+    &nbsp;•&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>Backend</b> — <i>Node, Express, NestJS, Django, FastAPI</i>
+</p>
+
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>Data & AI</b> — <i>LLMs, automation, PyTorch, data pipelines</i>
+    &nbsp;•&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" style="width:28px;height:28px;vertical-align:middle;" />
+    <b>Databases</b> — <i>MySQL, MongoDB, PostgreSQL</i>
+</p>
+
+<p>
+    <b style="font-size:14px">Highlights:</b>
+    <ul>
+        <li><b>Designed</b> and deployed containerized apps with automated CI pipelines.</li>
+        <li><b>Built</b> MERN and Django apps with role-based auth and secure APIs.</li>
+        <li><b>Integrated</b> LLMs for documentation & code sync in production prototypes.</li>
+    </ul>
+</p>
 
 ## GitHub Stats
 <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:flex-start;">
@@ -79,5 +124,7 @@ I build reliable web platforms, CI/CD pipelines, and embedded prototypes. I focu
 ## Work with me
 - Open to collaboration & opportunities — email: ferozshaikh2222@gmail.com
 - Need a portfolio or repo READMEs? Tell me which projects to highlight and I'll scaffold them.
-
+ 
 Thanks for visiting — let's build something great 🚀
+
+</div>
