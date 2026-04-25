@@ -32,12 +32,10 @@ I build reliable web platforms, CI/CD pipelines, and embedded prototypes. I focu
 - Embedded/IoT prototypes (Arduino, sensors)
 
 ## Featured projects
-- [InternSpark](https://github.com/OS-03/InternSpark) — MERN job portal with company & candidate panels.
+- [EasyRTI](https://github.com/OS-03/EasyRTI) — TypeScript/Express RTI automation portal.
 - [DocSyncAI](https://github.com/OS-03/DocSyncAI) — LLM-powered doc-code synchronization.
 - [ClingGpt](https://github.com/OS-03/ClingGpt) — React + OpenAI chatbot with persistent history.
-- [EasyRTI](https://github.com/OS-03/EasyRTI) — TypeScript/Express RTI automation portal.
-
-See all repos: https://github.com/OS-03?tab=repositories
+- [InternSpark](https://github.com/OS-03/InternSpark) — MERN job portal with company & candidate panels.
 
 ## Top technologies
 <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(59px, 1fr));gap:14px;align-items:center;">
@@ -79,5 +77,3 @@ See all repos: https://github.com/OS-03?tab=repositories
 - Need a portfolio or repo READMEs? Tell me which projects to highlight and I'll scaffold them.
 
 Thanks for visiting — let's build something great 🚀
-
-</div>
