@@ -80,28 +80,4 @@ See all repos: https://github.com/OS-03?tab=repositories
 
 Thanks for visiting — let's build something great 🚀
 
----
-
-## Commit History
-
-
-See the full history on GitHub: https://github.com/OS-03/OS-03/commits/main
-
----
-
-## Commit Timeline (visual)
-
-<!-- Commit cards grid: each card shows avatar, message, date and link -->
-<div style="display:flex;flex-wrap:wrap;gap:12px;margin-top:12px;">
-    <!-- commit eecee31 -->
-    <a href="https://github.com/OS-03/OS-03/commit/eecee31" style="text-decoration:none;color:inherit;">
-        <div style="display:flex;align-items:center;gap:12px;padding:10px;border-radius:10px;border:1px solid #e6e6e6;background:#fff;width:420px;box-shadow:0 2px 6px rgba(16,24,40,0.04)">
-            <img src="https://avatars.githubusercontent.com/u/93766717?v=4" alt="OS-03" style="width:56px;height:56px;border-radius:12px;object-fit:cover;"/>
-            <div style="flex:1">
-                <div style="font-weight:600">docs: update skills list, remove Go/Rust icons and 'Freelance' wording</div>
-                <div style="font-size:12px;color:#6b7280;margin-top:6px">eecee31 — 2026-04-26 — OS-03</div>
-            </div>
-        </div>
-    </a>
-
 </div>
