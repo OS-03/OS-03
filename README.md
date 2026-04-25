@@ -11,6 +11,15 @@
     <a href="https://github.com/OS-03?tab=repositories" target="_blank">Repositories</a>
 </p>
 
+<!-- Social badges -->
+<p align="center">
+    <img src="https://img.shields.io/badge/Email-ferozshaikh2222%40gmail.com-blue?style=flat-square&logo=gmail" alt="email" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-owaissk-0A66C2?style=flat-square&logo=linkedin" alt="linkedin" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/GitHub-OS--03-181717?style=flat-square&logo=github" alt="github" />
+</p>
+
 ---
 
 ## About
@@ -75,16 +84,24 @@ Thanks for visiting — let's build something great 🚀
 
 ## Commit History
 
-Below is the full commit history for this repository (most recent first):
-
-- eecee31 2026-04-26 — docs: update skills list, remove Go/Rust icons and 'Freelance' wording (OS-03)
-- a257642 2026-04-26 — new profile (OS-03)
-- cb775d7 2026-04-26 — chore: polish profile README and add repo/link updates (OS-03)
-- 9d5071e 2024-10-22 — Update README.md (Owais Shaikh)
-- 63308f2 2024-10-07 — Update README.md (Owais Shaikh)
-- 44b7893 2024-10-07 — Update README.md (Owais Shaikh)
-- d45aea8 2024-10-07 — Update README.md (Owais Shaikh)
-- d7c1bee 2024-10-07 — Update README.md (Owais Shaikh)
-- c0d1d07 2024-10-07 — Initial commit (Owais Shaikh)
 
 See the full history on GitHub: https://github.com/OS-03/OS-03/commits/main
+
+---
+
+## Commit Timeline (visual)
+
+<!-- Commit cards grid: each card shows avatar, message, date and link -->
+<div style="display:flex;flex-wrap:wrap;gap:12px;margin-top:12px;">
+    <!-- commit eecee31 -->
+    <a href="https://github.com/OS-03/OS-03/commit/eecee31" style="text-decoration:none;color:inherit;">
+        <div style="display:flex;align-items:center;gap:12px;padding:10px;border-radius:10px;border:1px solid #e6e6e6;background:#fff;width:420px;box-shadow:0 2px 6px rgba(16,24,40,0.04)">
+            <img src="https://avatars.githubusercontent.com/u/93766717?v=4" alt="OS-03" style="width:56px;height:56px;border-radius:12px;object-fit:cover;"/>
+            <div style="flex:1">
+                <div style="font-weight:600">docs: update skills list, remove Go/Rust icons and 'Freelance' wording</div>
+                <div style="font-size:12px;color:#6b7280;margin-top:6px">eecee31 — 2026-04-26 — OS-03</div>
+            </div>
+        </div>
+    </a>
+
+</div>
