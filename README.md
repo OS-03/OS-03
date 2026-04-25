@@ -68,11 +68,11 @@
 </div>
 
 ## 📊 Skill snapshot (quick visual)
-- Python:     ▇▇▇▇▇▇▇▇▇▉ 90%  
-- Java:       ▇▇▇▇▇▇▇▇▉ 85%  
-- JavaScript: ▇▇▇▇▇▇▇▉ 75%  
-- Cloud:      ▇▇▇▇▇▇▇▉ 75%  
-- Embedded:   ▇▇▇▇▇▇▉ 65%
+- Java:       ▇▇▇▇▇▇▇▇▉ 85%
+- Python:     ▇▇▇▇▇▇▇▇▉ 85%    
+- JavaScript: ▇▇▇▇▇▇▇▉  75%  
+- Cloud:      ▇▇▇▇▇▇▇▉  75%  
+- Embedded:   ▇▇▇▇▇▇▉   70%
 
 ## 📈 GitHub Stats
 <div style="display:flex;flex-nowrap:wrap;gap:12px;justify-content:center;align-items:flex;">
@@ -80,11 +80,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OS-03&layout=compact&theme=tokyonight" alt="Top Langs" style="height:220px;max-width:380px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.08);"/>
 </div>
 
----
-
 ## 🤝 Work with me
 - **Open to collaboration & opportunities.** Email: **ferozshaikh2222@gmail.com**  
 - Need a portfolio or repo READMEs? Tell me which projects to highlight and I'll scaffold them.
 
-Thanks for visiting — **let's build something great 🚀**
-</div>
+Thanks for visiting my github profile — **let's build something great 🚀**
