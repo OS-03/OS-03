@@ -46,7 +46,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" style="width:60px;height:60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="Go" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" style="width:60px;height:60px;" />
@@ -91,21 +90,21 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="Jenkins" style="width:60px;height:60px;" />
 </div>
 
+### IoT 
+<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" title="Raspberry Pi" style="width:60px;height:60px;" />
+</div>
+
 ### Tools & Platforms
 <div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" style="width:60px;height:60px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" title="Jira" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="github" title="GitHub" style="width:60px;height:60px;" />
 </div>
 
-### IoT & Embedded Systems
-<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" style="width:60px;height:60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" title="Raspberry Pi" style="width:60px;height:60px;" />
-</div>
 
 ## 📊 Skill snapshot
 ```
