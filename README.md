@@ -1,4 +1,4 @@
-<!-- Profile README — Owais (OS-03) — modern, concise, deduplicated -->
+
 
 <h1 align="center">Hi 👋 I'm Owais (OS-03)</h1>
 <p align="center">💡 <strong>Full‑stack developer</strong> • <strong>AI & automation</strong> • <strong>DevOps & Cloud</strong></p>
@@ -122,11 +122,12 @@ Embedded/IoT ▇▇▇▇▇▇▉   70%  (Arduino, sensors, prototyping)
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OS-03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="OS-03 GitHub stats" style="max-width:100%;border-radius:10px;margin:10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OS-03&theme=tokyonight" alt="OS-03 profile details" style="max-width:100%;border-radius:10px;margin:10px;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OS-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="max-width:100%;border-radius:10px;margin:10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OS-03&theme=tokyonight" alt="OS-03 stats" style="max-width:100%;border-radius:10px;margin:10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OS-03&theme=tokyonight" alt="OS-03 top languages" style="max-width:100%;border-radius:10px;margin:10px;" />
 </div>
 
 <div align="center">
