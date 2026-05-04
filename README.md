@@ -24,7 +24,7 @@
 ## 🔎 About
 **I build reliable web platforms, CI/CD pipelines, and embedded prototypes.** I focus on **pragmatic engineering**, maintainability, and shipping features quickly.
 
-## 🏗️ What I build
+## 🏗️ What Frameworks or Packages I Use to build and Deploy Applications
 - 🖥️ **Production web apps** — Django / Express / Node / TypeScript / FastAPI  
 - ✨ **Interactive frontends** — Next.js / React / Tailwind  
 - ☁️ **Cloud & Virtualization** — AWS, GCP, XEN, VMware, VirtualBox  
