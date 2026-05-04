@@ -65,7 +65,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="Node.js" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="Express" style="width:60px;height:60px;" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" title="Django" style="width:60px;height:60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="Spring Boot" style="width:60px;height:60px;" />
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="Spring Boot" style="width:60px;height:60px;" /> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" title="FastAPI" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" title="GraphQL" style="width:60px;height:60px;" />
 </div>
