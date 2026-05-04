@@ -38,46 +38,100 @@
 - **ClingGpt** — React + OpenAI chatbot with persistent history. ([repo](https://github.com/OS-03/ClingGpt))  
 - **InternSpark** — MERN job portal with company & candidate panels. ([repo](https://github.com/OS-03/InternSpark))
 
-## 🔧 Top technologies
-<div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(59px, 1fr));gap:14px;align-items:center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width:59px;height:59px;" />
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="width:59px;height:59px;" />
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width:59px;height:59px;" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width:59px;height:59px;" />
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="width:59px;height:59px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width:59px;height:59px;" />
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="width:59px;height:59px;" />
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" style="width:59px;height:59px;" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="width:59px;height:59px;" />
+## 🔧 Technology Stack & Expertise
+
+### Languages & Frameworks
+<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="Go" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" style="width:60px;height:60px;" />
 </div>
 
-## 📊 Skill snapshot (quick visual)
-- Java:       ▇▇▇▇▇▇▇▇▉ 85%
-- Python:     ▇▇▇▇▇▇▇▇▉ 85%    
-- JavaScript: ▇▇▇▇▇▇▇▉  75%  
-- Cloud:      ▇▇▇▇▇▇▇▉  75%  
-- Embedded:   ▇▇▇▇▇▇▉   70%
+### Frontend & UI
+<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" title="Next.js" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" alt="vue" title="Vue.js" style="width:60px;height:60px;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="Tailwind CSS" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" style="width:60px;height:60px;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" style="width:60px;height:60px;" />
+</div>
+
+### Backend & APIs
+<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="Node.js" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="Express" style="width:60px;height:60px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" title="Django" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" title="Spring Boot" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" title="FastAPI" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" title="GraphQL" style="width:60px;height:60px;" />
+</div>
+
+### Databases & Storage
+<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" title="Redis" style="width:60px;height:60px;" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" title="SQL Server" style="width:60px;height:60px;" />
+</div>
+
+### DevOps & Cloud
+<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" title="Kubernetes" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="AWS" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" title="Google Cloud" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" title="Azure" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" title="Terraform" style="width:60px;height:60px;" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="Jenkins" style="width:60px;height:60px;" />
+</div>
+
+### Tools & Platforms
+<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" style="width:60px;height:60px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" title="Jira" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="github" title="GitHub" style="width:60px;height:60px;" />
+</div>
+
+### IoT & Embedded Systems
+<div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" style="width:60px;height:60px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Raspberry_Pi_Logo.svg/1200px-Raspberry_Pi_Logo.svg.png" alt="raspberry-pi" title="Raspberry Pi" style="width:60px;height:60px;" />
+</div>
+
+## 📊 Skill snapshot
+```
+Java         ▇▇▇▇▇▇▇▇▉ 85%  (OOP, Spring Boot, Enterprise apps)
+Python       ▇▇▇▇▇▇▇▇▉ 85%  (Django, FastAPI, AI/ML integration)
+JavaScript   ▇▇▇▇▇▇▇▉  75%  (Full-stack, Node.js, React)
+TypeScript   ▇▇▇▇▇▇▇   70%  (Type-safe development)
+Database Design ▇▇▇▇▇▇▇▉  75%  (SQL, NoSQL, optimization)
+Cloud & DevOps ▇▇▇▇▇▇▇▉  75%  (AWS, Docker, Kubernetes)
+Embedded/IoT ▇▇▇▇▇▇▉   70%  (Arduino, sensors, prototyping)
+```
+
 
 ## 📈 GitHub Stats
-<div style="display:flex;flex-nowrap:wrap;gap:12px;justify-content:center;align-items:flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=OS-03&show_icons=true&theme=tokyonight" alt="OS-03 GitHub stats" style="height:220px;max-width:620px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.08);"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OS-03&layout=compact&theme=tokyonight" alt="Top Langs" style="height:220px;max-width:380px;border-radius:10px;box-shadow:0 6px 18px rgba(2,6,23,0.08);"/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OS-03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="OS-03 GitHub stats" style="max-width:100%;border-radius:10px;margin:10px;" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OS-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="max-width:100%;border-radius:10px;margin:10px;" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OS-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width:100%;border-radius:10px;margin:10px;" />
 </div>
 
 ## 🤝 Work with me
