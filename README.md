@@ -56,7 +56,6 @@
 <div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" title="Next.js" style="width:60px;height:60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" alt="vue" title="Vue.js" style="width:60px;height:60px;" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="Tailwind CSS" style="width:60px;height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" style="width:60px;height:60px;" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" style="width:60px;height:60px;" />
@@ -105,7 +104,7 @@
 ### IoT & Embedded Systems
 <div align="center" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" style="width:60px;height:60px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Raspberry_Pi_Logo.svg/1200px-Raspberry_Pi_Logo.svg.png" alt="raspberry-pi" title="Raspberry Pi" style="width:60px;height:60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" title="Raspberry Pi" style="width:60px;height:60px;" />
 </div>
 
 ## 📊 Skill snapshot
